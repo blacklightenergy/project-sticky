@@ -1,0 +1,27 @@
+{
+  "name": "project-sticky",
+  "version": "0.0.1",
+  "description": "a next generation music platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacklightenergy/project-sticky.git"
+  },
+  "keywords": [
+    "music",
+    "social",
+    "commerce"
+  ],
+  "author": "BLACKLIGHT ENERGY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blacklightenergy/project-sticky/issues"
+  },
+  "homepage": "https://github.com/blacklightenergy/project-sticky#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
