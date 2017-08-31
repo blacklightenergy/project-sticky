@@ -1,26 +1,30 @@
 
 @font-face {
   font-family: "Gotham Rounded";
-  src: url('/fonts/GothamRounded-Bold.woff') format('woff');
+  src: url('/fonts/GothamRounded-Bold.woff') format('woff'), 
+       url('/fonts/GothamRounded-Bold.ttf');
   font-weight: 400;
 }
 
 @font-face {
   font-family: "Gotham";
-  src: url('/fonts/GothamMedium.woff') format('woff');
+  src: url('/fonts/GothamMedium.woff') format('woff'),
+       url('/fonts/GothamMedium.ttf');
   font-weight: normal;
     font-style: normal;
 }
 @font-face {
   font-family: "Gotham";
-  src: url('/fonts/GothamMedium-Italic.woff') format('woff');
+  src: url('/fonts/GothamMedium-Italic.woff') format('woff'),
+       url('/fonts/GothamMedium-Italic.ttf');
   font-weight: normal;
     font-style: oblique;
 }
 
 @font-face {
   font-family: "Gotham";
-  src: url('/fonts/GothamBold.woff') format('woff');
+  src: url('/fonts/GothamBold.woff') format('woff'),
+       url('/fonts/GothamBold.ttf');
   font-weight: bold;
 }
 
