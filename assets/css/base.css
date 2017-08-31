@@ -20,8 +20,7 @@
 
 @font-face {
   font-family: "Gotham";
-  src: url('/fonts/GothamBold.otf'),
-       url('/fonts/GothamBold.woff') format('woff');
+  src: url('/fonts/GothamBold.woff') format('woff');
   font-weight: bold;
 }
 
